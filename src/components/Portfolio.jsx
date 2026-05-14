@@ -1,7 +1,7 @@
 import React from 'react';
 import portfolio from "../assets/portfolio.mp4";
 import erpsystem from "../assets/erp-system1.mp4";
-import exza from "../assets/Exzasoft.mp4"
+import exza from "../assets/exzasoft.mp4"
 
 const Portfolio = () => {
   const projects = [
