@@ -1,12 +1,12 @@
 import React from 'react';
 import portfolio from "../assets/portfolio.mp4";
 import erpsystem from "../assets/erp-system1.mp4";
-import Exza from "../assets/Exzasoft.mp4"
+import exza from "../assets/Exzasoft.mp4"
 
 const Portfolio = () => {
   const projects = [
  { title: 'Bellerilondon', desc: 'ERP System', bg: 'p1', video: erpsystem },
-  { title: 'EXZASOFT', desc: 'Website', bg: 'p2', video: Exza },
+  { title: 'EXZASOFT', desc: 'Website', bg: 'p2', video: exza },
   { title: 'Portfolio', desc: 'Digital CV', bg: 'p3', video: portfolio },
 
   ];
